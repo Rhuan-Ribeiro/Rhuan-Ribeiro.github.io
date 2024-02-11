@@ -4,3 +4,6 @@
 [submodule "projects/Weather-app"]
 	path = projects/Weather-app
 	url = https://github.com/Rhuan-Ribeiro/Weather-App
+[submodule "projects/QR-Code"]
+	path = projects/QR-Code
+	url = https://github.com/Rhuan-Ribeiro/QR-Code
